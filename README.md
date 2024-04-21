@@ -1,3 +1,5 @@
+Readmore Multilingual Bookstore
+===============================
 This is a sample Next.js project demonstrating how to build a multilingual website using `next-translate` for internationalization (i18n).
 
 Features
@@ -25,7 +27,7 @@ Getting Started
     
     bashCopy code
     
-    `git clone `
+    `git clone https://github.com/NobbuMajankwe/ReadMore.git`
     
 2.  Navigate to the project directory:
     
