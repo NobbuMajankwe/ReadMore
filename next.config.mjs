@@ -5,10 +5,10 @@ import nextTranslate from 'next-translate';
 
 const nextConfig = nextTranslate({
   // Other Next.js configuration options...
-  namespaces: ['common'],
   reactStrictMode: true,
   experimental: {
     serverActions: true,
+    //namespaces: ['common'],
   },
 });
 

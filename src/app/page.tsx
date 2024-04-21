@@ -9,7 +9,7 @@ import useTranslation from 'next-translate/useTranslation';
 export default function Home() {
 const [books, setBooks] = useState([] as Book[]);
 const router = useRouter();
-const {t} = useTranslation('common');
+const { t } = useTranslation('common');
 
 useEffect(() => {
   // Simulate fetching data from books.json
