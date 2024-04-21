@@ -1,0 +1,112 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "price": 10.99
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "price": 9.99
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "price": 12.5
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "price": 8.95
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "price": 11.25
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "price": 14.99
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "price": 10.99
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "price": 13.75
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "price": 9.25
+  },
+  {
+    "title": "The Odyssey",
+    "author": "Homer",
+    "price": 11.99
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "price": 17.5
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "price": 11.95
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "price": 19.99
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Bronte",
+    "price": 10.5
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "price": 12.25
+  },
+  {
+    "title": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "price": 10.75
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "price": 11.5
+  },
+  {
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "price": 14.95
+  },
+  {
+    "title": "Les Miserables",
+    "author": "Victor Hugo",
+    "price": 15.99
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "price": 9.99
+  },
+  {
+    "title": "The test",
+    "author": "Shereen",
+    "price": 16.78
+  },
+  {
+    "title": "The test",
+    "author": "Shereen",
+    "price": 16.78
+  }
+]
